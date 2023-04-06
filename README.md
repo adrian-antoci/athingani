@@ -14,4 +14,6 @@ Athingani is a low latency workflow engine designed to work with Flutter apps.
 
 ## Getting Started
 Coming soon
-```
+
+## Screenshot
+https://github.com/adrian-alex/athingani/blob/main/screenshots/screenshot_1.png
