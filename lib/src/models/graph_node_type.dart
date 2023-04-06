@@ -1,0 +1,4 @@
+enum GraphNodeType {
+  start,
+  step,
+}
