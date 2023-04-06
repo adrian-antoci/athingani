@@ -4,7 +4,7 @@
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg?longCache=true&style=flat-square)
 
-Athingani is a low latency workflow engine designed to work with Flutter apps.
+Athingani is an open source, low latency workflow engine designed to work with Flutter apps.
 
 ## Demo
 
