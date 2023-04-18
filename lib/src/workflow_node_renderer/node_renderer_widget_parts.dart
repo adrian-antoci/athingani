@@ -31,7 +31,6 @@ Widget _layoutWidget(BuildContext context) {
       context.read<AthinganiRendererBloc>().add(
             AthinganiRendererBlocEventMoveSelection(position: details.focalPoint),
           );
-
       viewState.mousePosition = details.focalPoint;
     },
     onInteractionEnd: (_) => viewState.mouseDragStart = null,
